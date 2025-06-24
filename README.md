@@ -34,8 +34,9 @@
   - CAD work in **Fusion 360** 
   - Soldering, flashing and **burning** microcontrollers for fun
   - Also run a Voron Trident (VT.1581) 
-- 💻 Comfortable in `C#`, `C`, and Java – with a growing trauma
-- 🌐 Into networking – homelab servers, VLAN segmentation, PoE toys and sub-ms ping goals
+- 💻 Comfortable in `C#`, `C`, and `Java` – with a growing trauma
+- 🌐 Into self-hosting – servers, local services, and data that stays **mine**
+
 
 
 
