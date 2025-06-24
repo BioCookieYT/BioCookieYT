@@ -7,14 +7,16 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack tinkerer & enthusiast in the world of 3D printing</strong>
+  <strong>Runs on homelab servers, stepper motors, binary states, and too much caffeine.</strong>
 </p>
+
+
 
 ---
 
 ## More About Me 🐈
 - 🎧 Music is fuel:
-  <p align="left" style="margin-left: 20px;"
+  <p align="left" style="margin-left: 20px;">
   <img src="https://img.shields.io/badge/Rammstein-black?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Linkin%20Park-slategray?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Hanabie-purple?style=flat&logoColor=white" />
