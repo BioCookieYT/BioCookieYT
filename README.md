@@ -15,19 +15,8 @@
 ---
 
 ## More About Me 🐈
-- 🎧 Music is fuel:
-  <p align="left" style="margin-left: 20px;">
-  <img src="https://img.shields.io/badge/Rammstein-black?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linkin%20Park-slategray?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hanabie-purple?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Babymetal-crimson?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slipknot-darkred?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Korn-8B0000?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Limp%20Bizkit-0033AA?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20of%20a%20Down-maroon?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slaughter%20to%20Prevail-1a1a1a?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alex%20Terrible-2e2e2e?style=flat" />
-</p>
+- 🎧 Music is fuel
+
 
 - 🛠️ I build and break things:
   - Circuit design in **KiCad**  
